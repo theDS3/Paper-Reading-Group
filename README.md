@@ -9,4 +9,5 @@ The vision is to get undergraduate students involved in the world of research an
 |02/11/2022|[From AI ethics principles to data science practice: a reflection and a gap analysis based on recent frameworks and practical experience](https://link.springer.com/article/10.1007/s43681-021-00127-3)|[video]()|[slides](https://drive.google.com/file/d/1vgPqYJrXbFMpQ6ch8GuFDeDE4ceB5pkn/view?usp=sharing)||
 
 ## Resources
-* [Discord](https://discord.gg/xDpujjZ)
+[Discord](https://discord.gg/xDpujjZ)
+[Linktree](https://linktr.ee/datasciencecube)
